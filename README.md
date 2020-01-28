@@ -7,17 +7,19 @@ this is a sample project form ruby on rails 4th edition tutorial
 ## 📡 technologies used
 
 - ruby
-- rest-client
-- nokogiri
+- rails
+- active record
+- rubocop
+- stickler
 - git
 
-ruby, rest-client api, nokogiri for parsing and git was used on this project.
+ruby, rails, active record, rubocop, stickler, and git was used on this project.
 
 
 
 ## 🚀 the project
 
-this project can be found in https://github.com/firmoholanda/rest-client
+this project can be found in https://github.com/firmoholanda/micro-reddit
 
 
 
