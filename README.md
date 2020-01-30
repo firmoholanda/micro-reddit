@@ -1,6 +1,6 @@
 # 📃 micro-reddit
 
-this is a sample project form ruby on rails 4th edition tutorial
+this project is a very junior version of reddit, called micro-reddit. in this project, we build the data structures necessary to support link submissions and commenting. we will use the rails console to play around with models without the overhead of making HTTP requests and involving controllers or views.
 
 
 
